@@ -8,7 +8,7 @@
 
 </div>
 
-##👩‍💻 About Me
+👩‍💻 About Me
 
     public class Sandy implements Developer, QATester {
     private final String name         = "Sandy Lopez";
