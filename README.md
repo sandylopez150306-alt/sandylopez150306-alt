@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 Acerca de Mí
 
 ```java
 public class Sandy implements Developer, QATester {
@@ -33,7 +33,7 @@ public class Sandy implements Developer, QATester {
 ```
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Herramientas Tecnológicas
 
 ### Languages
 <img src="https://img.shields.io/badge/JAVA-FF9900?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/SWIFT-FA4A0C?style=for-the-badge&logo=swift&logoColor=white" /> <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
