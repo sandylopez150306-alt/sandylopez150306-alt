@@ -1,5 +1,6 @@
 <div align="center">
 
+```text
 ┌────────────────────────────────────────────────────────┐
 │                      SANDY LOPEZ                       │
 │          ☕ Java · 🛡️ Security · 🧪 QA/Testing        │
