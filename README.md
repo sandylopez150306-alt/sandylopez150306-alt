@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sandylopez150306-alt/sandylopez150306-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+┌────────────────────────────────────────────────────────┐
+│                      SANDY LOPEZ                       │
+│          ☕ Java · 🛡️ Security · 🧪 QA/Testing        │
+│                    Trujillo, Perú                      │
+└────────────────────────────────────────────────────────┘
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+public class Sandy implements Developer, QATester {
+    private final String name         = "Sandy Lopez";
+    private final int age             = 20;
+    private final String location     = "Trujillo, Peru";
+    
+    private final String institution  = "Instituto Cibertec";
+    private final String status       = "Egresada de Computación e Informática";
+    
+    public void focus() {
+        System.out.println("En crecimiento personal y profesional.");
+    }
+}
