@@ -1,11 +1,9 @@
 <div align="center">
 
 # 💻 Sandy Lopez
-┌────────────────────────────────────────────────────────┐
-│                      SANDY LOPEZ                       │
-│          ☕ Java · 🛡️ Security · 🧪 QA/Testing        │
-│                    Trujillo, Perú                      │
-└────────────────────────────────────────────────────────┘
+                                            
+         ☕ Java · 🛡️ Security · 🧪 QA/Testing        
+                  Trujillo, Perú                      
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=42E662&center=true&vCenter=true&width=500&lines=Software+Developer;Computing+Student;Aspiring+QA+Engineer" alt="Typing SVG" />
