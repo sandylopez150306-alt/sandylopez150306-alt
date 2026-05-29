@@ -42,6 +42,7 @@ public class Sandy implements Developer, QATester {
 
 ### Databases
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 ### Methodologies & Management
 <img src="https://img.shields.io/badge/SCRUM-008080?style=for-the-badge&logo=scrum&logoColor=white" /> <img src="https://img.shields.io/badge/TRELLO-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
